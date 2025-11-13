@@ -147,6 +147,8 @@ Example:
 Dataset initialized with 500 images
 ✅ Test PSNR: 30.60 dB
 ```
+<img width="1200" height="500" alt="training_history" src="https://github.com/user-attachments/assets/5bdba744-e0b4-4120-9a94-3d05efb2afc4" />
+
 
 ---
 
