@@ -166,14 +166,9 @@ python inference.py --input myphoto.jpg --output results/sr_output.png
 python gradio_app.py
 ```
 
-<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/7658b9ed-8486-4fb4-8e0a-22867b47a51a" />
-
-
 ✔ Upload image
 ✔ Processed HR image shown
 ✔ Download button included
-
-<img width="1919" height="960" alt="adf" src="https://github.com/user-attachments/assets/9dab45c2-b571-4488-bfce-60c8bad4cf84" />
 
 
 ---
